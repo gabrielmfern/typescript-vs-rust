@@ -3,7 +3,7 @@ NOCAUTE ESTÁ ESCRITO A SEGUIR, COM MUITA, MUITA VIOLÊNCIA. O ESCRITOR NÃO SE 
 - Emoções fortes;
 - tristeza imensa;
 - choques de relidades;
-- náuses sem fim;
+- náuseas sem fim;
 - ódio por TypeScript; (😏)
 - etc.
 
