@@ -13,7 +13,7 @@ Recentemente eu assisti um vídeo bem interessante mostrando uma certa capacidad
 e em como pode ser feito de uma forma extremamente segura que evita qualquer tipo de código mal feito em tempo de compilação.
 
 Então pensei: por que não escrever um README simpleszinho comparando o TypeScript com o Rust para mostrar
-quão melhor o Rust pode ser para os meus companheiros de trabalho e meu querido pai que ainda nega
+quão melhor o Rust pode ser para os meus companheiros de trabalho e meu querido pai que ainda se nega
 aprender Rust? 
 
 Então vem ler que você vai ver.
@@ -110,7 +110,7 @@ class PasswordManager {
   }
   
   lock(): void {
-    if (this.isLocked === true) {
+    if (this.isLocked === false) {
       this.isLocked = true;
     } else {
       throw new Error('😭');
